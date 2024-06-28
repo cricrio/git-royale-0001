@@ -1,1 +1,28 @@
-Menaces et Attaques
+Contenu: Description des Types de Menaces et Attaques en Cybersécurité
+Introduction
+Dans le domaine de la cybersécurité, il est crucial de comprendre les différents types de menaces et d'attaques auxquelles les systèmes informatiques peuvent être confrontés. Cette section fournit une description détaillée des menaces courantes, telles que les malwares, les phishing, les ransomwares, ainsi que des attaques telles que les attaques DDoS et MITM.
+
+Menaces
+1. Malware
+Le terme "malware" est une contraction de "malicious software" et désigne tout logiciel conçu pour causer des dommages à un ordinateur, serveur ou réseau. Voici quelques types de malwares courants :
+
+Virus: Programme malveillant qui, lorsqu'il est exécuté, réplique son code en insérant des copies de lui-même dans d'autres programmes.
+Ver: Logiciel malveillant autonome qui se réplique lui-même afin de se propager à d'autres ordinateurs.
+Cheval de Troie (Trojan): Programme malveillant déguisé en logiciel légitime. Une fois installé, il permet un accès non autorisé au système de la victime.
+Spyware: Logiciel qui collecte secrètement des informations sur un utilisateur sans son consentement.
+Adware: Programme qui affiche des publicités sur l'ordinateur de l'utilisateur, souvent sous forme de pop-up.
+2. Phishing
+Le phishing est une technique utilisée par les attaquants pour tromper les utilisateurs et leur faire divulguer des informations sensibles, telles que des identifiants de connexion, des informations de carte de crédit, etc. Les attaques de phishing sont souvent réalisées par le biais d'emails ou de sites web frauduleux qui imitent des entités de confiance.
+
+3. Ransomware
+Le ransomware est un type de malware qui chiffre les fichiers de la victime, rendant les données inaccessibles. Les attaquants demandent ensuite une rançon en échange de la clé de déchiffrement. Exemples célèbres de ransomware incluent WannaCry et CryptoLocker.
+
+Attaques
+1. Attaque par Déni de Service (DoS) et Déni de Service Distribué (DDoS)
+Les attaques DoS visent à rendre un service ou un réseau indisponible en le submergeant de trafic ou en exploitant des vulnérabilités qui provoquent des défaillances. Les attaques DDoS utilisent un grand nombre de machines compromises (botnet) pour lancer une attaque synchronisée, augmentant ainsi son efficacité.
+
+2. Attaque de l'Homme du Milieu (MITM)
+L'attaque MITM se produit lorsque l'attaquant s'interpose entre deux parties communicantes, interceptant et éventuellement modifiant les communications entre elles. Ce type d'attaque peut être utilisé pour voler des informations sensibles, telles que des identifiants de connexion ou des informations financières.
+
+Conclusion
+Comprendre les différents types de menaces et d'attaques est essentiel pour développer des stratégies de défense efficaces en cybersécurité. En étant conscient des risques et en connaissant les méthodes employées par les attaquants, les individus et les organisations peuvent mieux se protéger contre ces dangers.
