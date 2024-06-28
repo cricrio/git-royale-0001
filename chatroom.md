@@ -1,16 +1,8 @@
 # Chatroom
-- Bonsoir bonjour mohamed
-- cc
-- lu
-- Bonsoir Bonjour Yacine DJAFRI
-- hey hey hey, c théo
-- Bonjour et BONNE JOURNEE TOUT LE MONDE !!!
-- hello
-- j'ai commit sur la 12 faut push avant la fin de journée c'est le rush 
-- Hola
-- Cc c'est valentin bon appetit tout le monde ^^
-- Hi, back ! Vous pouvez regarder qui écrit quoi avec à l'aide github ou git log donc interdiction de signer ses messages ;)
-- Vous pouvez commencer vos mesages par un `-` pour que ce soit plus propre sur github.
-- salut levy
-- ok
-- merci
+https://panda-kuma.com/blogs/blog-panda/13-faits-etonnants-pandas
+
+https://www.natgeokids.com/uk/discover/animals/general-animals/ten-panda-facts/
+
+https://www.chinahighlights.com/giant-panda/interesting-facts.htm
+
+https://www.wwf.org.uk/learn/fascinating-facts/pandas
