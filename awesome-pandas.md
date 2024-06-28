@@ -34,7 +34,7 @@ Au lieu de dormir la nuit entière, les pandas font après leurs repas des siest
 
 ### 5 - Ils passent une grande partie de leurs journées à manger
 
-Les pandas géeants passent 10 à 16h à manger, principalement du bamboo (environ 40kg par jour).
+Les pandas géants passent 10 à 16h à manger, principalement du bamboo (environ 40kg par jour).
 
 ![](https://video.cgtn.com/news/3d3d514d7a6b544d33457a6333566d54/video/ab8d270da7074d32b6bd9399ccb1e676/ab8d270da7074d32b6bd9399ccb1e676.jpg)
 
