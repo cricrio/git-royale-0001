@@ -13,3 +13,4 @@
 - Vous pouvez commencer vos mesages par un `-` pour que ce soit plus propre sur github.
 - salut levy
 - ok
+- merci
