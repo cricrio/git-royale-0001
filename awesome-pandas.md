@@ -14,10 +14,10 @@ On dirait d'énormes peluches, ils sont incroyables.
 
 Les pandas sont très maladroits, à se demander comment ils ont survécu jusqu'ici.
 
+![AhA2](https://github.com/cricrio/git-royale-0001/assets/138128888/b078920e-bdc8-42ee-8e12-2a1abd964d1a)
+
 ![](https://j.gifs.com/ZjeNgA.gif)
 
-![](https://i.gifer.com/ABcO.gif)
+![ItaG](https://github.com/cricrio/git-royale-0001/assets/138128888/0990072b-1574-4279-87ed-4647ec745336)
 
-![](https://i.gifer.com/ItaG.gif)
-
-![](https://i.gifer.com/AhA2.gif)
+![ABcO](https://github.com/cricrio/git-royale-0001/assets/138128888/afc772ad-3461-4f3d-9fcf-2fa2d25fd8d9)
