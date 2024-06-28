@@ -2,4 +2,4 @@
 
 C'est la fête du village!! 
 
-La Cybersécurité : à fin de pouvoir utilisée au mieux les nouvelle technologie numérique il est exentiel de ce protéger de toute les personnes malhonnête qui pourrait le détourner c'est pour cela que nous avons décider de vous parler de la cybersécurité.
+La cybersécurité : à fin de pouvoir utiliser au mieux les nouvelles technologies numériques, il est essentiel de se protéger de toutes les personnes malhonnêtes qui pourrait le détourner c'est pour cela que nous avons décidé de vous parler de la cybersécurité.
