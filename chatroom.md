@@ -12,3 +12,4 @@
 - Hi, back ! Vous pouvez regarder qui écrit quoi avec à l'aide github ou git log donc interdiction de signer ses messages ;)
 - Vous pouvez commencer vos mesages par un `-` pour que ce soit plus propre sur github.
 - salut levy
+- ok
