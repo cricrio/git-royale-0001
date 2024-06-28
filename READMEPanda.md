@@ -1,3 +1,0 @@
-# Pandas
-
-/!\ Bamboo eaters only
