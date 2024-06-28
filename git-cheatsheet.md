@@ -94,3 +94,11 @@ On perd l'historique de la branche de `feature-X`
 
 
 Le git rebase conserve les commits que l'on a sur la branche 
+
+# git stash
+
+
+- utile si on veut changer de branches et que notre espace n'est pas propre
+
+- `git stash` enregister dans le stash (mémoire temporaire)
+- `git stash pop` permet de réapliquer ce qui le stash dans l'espace de travail 
