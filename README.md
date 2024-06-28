@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# My Project
-=======
-# Oopsi
+# Projet One Piece
 
-Pas fait exprès
->>>>>>> 02f9b17364c2b79b18522371c84ed51bfe77e695
+## Table des Matières
+- [Groupe 1 - Article 1](Articles/Groupe1/article1.md)
+- [Groupe 1 - Article 2](Articles/Groupe1/article2.md)
+- [Groupe 2 - Article 1](Articles/Groupe2/article1.md)
+- [Groupe 2 - Article 2](Articles/Groupe2/article2.md)
