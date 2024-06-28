@@ -1,6 +1,6 @@
 # Atelier 
 
-- Division en groupe de 4 personnes 
+- Division en groupe de 3 personnes 
 - Travail sur un sujet
   - Un rédacteur qui change (personne qui prend des notes et fais des commit)
 - chatroom pour discution
