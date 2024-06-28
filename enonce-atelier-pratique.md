@@ -1,5 +1,6 @@
-# Atelier 
+# Atelier
 
+- Tout le monde doit cloner le repo `https://github.com/cricrio/git-royale-0001/` avec github desktop  
 - Division en groupe de 4 personnes 
 - Travail sur un sujet
   - Un rédacteur qui change (personne qui prend des notes et fais des commit)
